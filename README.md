@@ -15,7 +15,7 @@
 
 ## Instrucciones para ejecutar las Pruebas Unitarias:
 
-### 1) Después de clonar el repositorio y e ir a la ruta de la carpeta resit
+### 1) Después de clonar el repositorio y e ir a la ruta de la carpeta Prueba-Resit
 
 ### 2) Ejecutar el archivo tests.py, usando el comando → python tests.py
 
