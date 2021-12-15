@@ -6,7 +6,7 @@
 
 ### 2) vaya a la carpeta padre del proyecto llamada Prueba-Resit
 
-### 3) Descomentar las líneas 25 y 25
+### 3) Descomentar las líneas 25 y 25 del archivo llamado multiples.py
 
 ### 4) Ejecutar el archivo llamado multiples.py, usando el comando → python multiples.py
 
@@ -15,11 +15,11 @@
 
 ## Instrucciones para ejecutar las Pruebas Unitarias:
 
-### 1) Después de clonar el repositorio y e ir a la ruta de la carpeta Prueba-Resit
+### 1) Después de clonar el repositorio, ir a la ruta de la carpeta Prueba-Resit
 
 ### 2) Ejecutar el archivo tests.py, usando el comando → python tests.py
 
-### 3) Comparar los resultados de las pruebas con los resultados esperados hice pruebas para los multiplos de los numeros (3), (5), (3, 5) y (2)
+### 3) Comparar los resultados de las pruebas con los resultados esperados hice pruebas para los múltiplos de los numeros (3), (5), (3, 5) y (2)
 
 
 ## Adicional adjunto imagenes de la covertura de las pruebas unitarias
