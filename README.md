@@ -4,7 +4,7 @@
 
 ### 1) Clone en el repositorio en su ambiente local
 
-### 2) vaya a la carpeta padre del proyecto llamada resit
+### 2) vaya a la carpeta padre del proyecto llamada Prueba-Resit
 
 ### 3) Descomentar las líneas 25 y 25
 
